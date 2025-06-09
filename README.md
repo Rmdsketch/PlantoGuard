@@ -131,7 +131,7 @@ flutter run
 * Gunakan `ngrok` atau IP LAN agar bisa diakses dari perangkat
 
 ## 📸 Demo Aplikasi
-![Tampilan Aplikasi](https://raw.githubusercontent.com/Rmdsketch/PlantoGuard/main/assets/images/PlantoGuard.gif)
+![Tampilan Aplikasi](https://raw.githubusercontent.com/Rmdsketch/PlantoGuard/main/assets/images/Plantoguard.gif)
 
 Untuk pertanyaan lebih lanjut atau laporan bug, silakan buka issue di GitHub repository ini atau hubungi kami melalui Linkedin yang tertera:
 (https://www.linkedin.com/in/muhamad-ramadani-937976245/)
