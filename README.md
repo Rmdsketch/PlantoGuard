@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ### 4. Struktur folder backend (penjelasan singkat)
 
-* `models/` : Berisi definisi model database dengan Flask-SQLAlchemy dan file model klasifikasi (`model.h5`)
+* `models/` : Berisi definisi model database dengan Flask-SQLAlchemy dan file model klasifikasi (`model.tflite`)
 * `schemas/` : Serialisasi menggunakan Marshmallow
 * `resources/` : Endpoint API (auth, disease, user, dsb)
 
