@@ -20,7 +20,7 @@ plantoguard/
 ├── backend/                   # Backend Flask
 │   ├── app.py
 │   ├── config.py
-│   ├── models/                # Termasuk model klasifikasi (.h5)
+│   ├── models/                # Termasuk model klasifikasi (tflite)
 │   ├── resources/
 │   ├── schemas/
 │   ├── static/
@@ -126,7 +126,7 @@ flutter run
 
 ## ✍️ Catatan Penting
 
-* Model Machine Learning (`model.h5`) harus sudah dilatih dan disimpan di folder `models/`
+* Model Machine Learning (`model.tflite`) harus sudah dilatih dan disimpan di folder `models/`
 * Gunakan emulator Android/iOS atau perangkat nyata dengan koneksi ke IP backend
 * Gunakan `ngrok` atau IP LAN agar bisa diakses dari perangkat
 
