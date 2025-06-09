@@ -69,6 +69,7 @@ build/
 .svn/
 .swiftpm/
 migrate_working_dir/
+.bfg-report/
 
 # ---------------------
 # 🔒 Sensitive Files (Optional)
